@@ -1,7 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ##deployed Site
-https://fastsearchapi.netlify.app/
+https://fast-api-henna-seven.vercel.app/
+
+##Used
+NextJS, Hono(api development), Upstash Redis(Upstash is a serverless database with Redis API. It is the perfect database for serverless applications, Data is replicated across 8+ regions worldwide to provide the lowest latency for your users. Add/remove regions without any downtime.), Cloudflare for deploying API on that.
 ## Getting Started
 
 First, run the development server:
