@@ -8,14 +8,13 @@
     "start": "next start",
     "lint": "next lint",
     "deploy": "wrangler deploy --minify --name fastapi src/app/api/[[...route]]/route.ts"
-    
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.2",
     "@upstash/redis": "^1.34.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
-    "cmdk": "^1.0.0",
+    "cmdk": "^1.0.4",
     "hono": "^4.6.9",
     "lucide-react": "^0.455.0",
     "next": "15.0.2",
